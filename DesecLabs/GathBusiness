@@ -1,0 +1,30 @@
+Este Arquivo ira conter o passo a passo, estratégia e métodologia de como finalizei o módulo de information gathering da Desec
+
+*não serão mostradas as flags, nem links ou caminhos do caminho para não prejudicar/facilitar a execução do modulo para demais alunos
+
+-Se eu tivesse oito horas para cortar uma árvore, passaria seis afiando meu machado- Abraham Lincoln
+
+Foco: gathering de informações da empresa businesscorp.
+
+Estratégia: reunir o maximo de informações possiveis sobre o alvo, detalhes, vazamentos, pontos sensiveis, dados esquecidos ou deixados para trás.
+
+Lab 01: Realize uma coleta de endereços e-mails para o domínios businesscorp.com.br.
+
+Execução:
+De maneira passiva como um usuario do sistemas acessei o site e fiz uma busca rapido nos links e emails que apareciam nas paginas web.
+Após passar pelas paginas que era possiveis de maneira visual fiz a coleta de 3 emails:
+
+KEY:funcionario1@businesscorp.com.br,funcionario2@businesscorp.com.br,funcionario3@businesscorp.com.br
+
+Para uso futuro deixei ambos anotados caso surgisse a oportunidade ou relevancia em outra parte do reconhecimento.
+
+Lab 02: Utilize as técnicas de google hacking no domínio businesscorp.com.br
+
+Execução fiz uma busca simples usando como foco o site:"businesscorp.com.br" e busquei por um nome de arquivo sensivel comum *nome_sensivel
+percebi que varios sites do dominio apareceram mas um em especial chama atenção por trazer mais informações inclusive o nome do arquivo sensivel
+sendo assim possivel coletar a Key correspondente ao Lab:
+KEY:**************.
+
+Lab 03: Utilize as técnicas de pesquisa em cache no domínio businesscorp.com.br.
+
+
